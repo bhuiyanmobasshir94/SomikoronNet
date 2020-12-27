@@ -18,3 +18,7 @@
 Reference:
 1. [Bengali AI codebase](https://github.com/sammyamajumdar/bengaliAI/blob/master/Bangla_Classifier_FULL.ipynb)
 2. [Dhaka AI](https://colab.research.google.com/drive/1pi4foPL7Cg0sA7_ri52yu5sd6zjTXU2m?usp=sharing&fbclid=IwAR0JnMhQiqer_TcFZXBcuobl6TYL6ImoPZxwKuuFR9DSZ7FESQcqjQwxkqw#scrollTo=iiFhIDozx0Pv)
+
+## Related kaggle competitions
+1. [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+2. [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
