@@ -22,3 +22,4 @@ Reference:
 ## Related kaggle competitions
 1. [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
 2. [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
+3. [Handwriting Recognition](https://www.kaggle.com/landlord/handwriting-recognition)
