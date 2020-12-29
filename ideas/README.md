@@ -18,6 +18,9 @@
 Why we are solving this problem:
 1. OCR can't solve handwritten text
 2. 
+
+Challenges:
+1. Data augmentation - rotation issues
     
 Reference:
 1. [Bengali AI codebase](https://github.com/sammyamajumdar/bengaliAI/blob/master/Bangla_Classifier_FULL.ipynb)
