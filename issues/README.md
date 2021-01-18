@@ -11,7 +11,7 @@
     - Stretch/Compress
       - When in congestion the writtings may overlap seemingly and could become ambiguous to machiner
       - Streching certain bangla numerics can lead to ambiguity such as bangla five has possibility of becoming bangla 0 and vice versa
-      - A lot of cases stretching image could lead a a image to become bloated and in case of "divide sign" the upper and lower dot could easily become a line leading to probable misidentification chance
+      - A lot of cases stretching image could lead an image to become bloated and in case of "divide sign" the upper and lower dot could easily become a line leading to probable misidentification chance
       - Stretching first bracket can lead that to become curly brackets/second brackets and compressing could made it third/square brackets or vice-versa
 
 ### Variation
