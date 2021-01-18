@@ -22,7 +22,7 @@
 - since object recognition from image is basically the checks of pixel value in an image and making a decision boundary, a issue in english hand written number recognition states that hand written numerical/non-numerical value could have so variation that it could become almost impossible to identify them (1). So they introduced a line based approach. (1)
 
 ### Misc.
-- written form of bangla 5 and 0 has a lot similarities and may lead misidentification
+- written form of bangla 1, 5 and 0 has a lot similarities and may lead misidentification
 - A lot of cases bangla 3 and 0 can be misindentified as a little stretch at the end of 3 and a not fully closed 0 may become same
 - Since we are using bangla "of" known as "er" the first letter has a similarity with bangla 3 which could be misinterpretated easily
 - If the images/samples is of very low quality then the machine will lose a great deal of knowledge because the signs are very similar to one another
